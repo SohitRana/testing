@@ -1,0 +1,1 @@
+print("sale 2.5cr")
